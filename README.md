@@ -1,3 +1,3 @@
 Udacity exercise
 
-This is created as part of an exercise from Udacity Nanodegree program.
+This file is created as part of an exercise from Udacity Nanodegree program.
